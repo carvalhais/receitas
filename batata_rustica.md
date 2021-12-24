@@ -1,5 +1,7 @@
 # BATATA RÚSTICA ASSADA
 
+[Receita original](https://www.panelinha.com.br/receita/Batata-rustica-assada-com-ervas)
+
 ## INGREDIENTES
 
 - 3 batatas
@@ -43,5 +45,3 @@ Sirva imediatamente.
 
 - Versátil, casa bem com outros tipos de tempero. Se for realizar na panela
 Vigorosa, deixa menos tempo em fervura, pois o tempo de cozimento é maior.
-
-https://www.panelinha.com.br/receita/Batata-rustica-assada-com-ervas
