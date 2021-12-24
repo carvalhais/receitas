@@ -1,4 +1,5 @@
 # PANQUECA AMERICANA
+
 [Receita original](https://www.panelinha.com.br/receita/panquecas-americanas-pancakes)
 
 ## INGREDIENTES
