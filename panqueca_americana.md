@@ -1,4 +1,5 @@
 # PANQUECA AMERICANA
+[Receita original.](https://www.panelinha.com.br/receita/panquecas-americanas-pancakes)
 
 ## INGREDIENTES
 
@@ -42,5 +43,3 @@ no mesmo momento da adição dos ingredientes molhados.
 
 - A medida correta das panquecas no instante de assar é de 1 concha de feijão
 (que equivale às 2 conchas da receita), medido pelo rendimento.
-
-[Receita original.](https://www.panelinha.com.br/receita/panquecas-americanas-pancakes)
