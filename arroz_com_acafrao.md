@@ -8,8 +8,8 @@
 - 1 dente de alho
 - ½ colher de chá de gengibre fresco
 - 1 colher de chá de açafrão em pó
-- óleo
-- sal
+- 1 colher de sopa de óleo
+- 1 pitada de sal
 
 ## MODO DE PREPARO
 
