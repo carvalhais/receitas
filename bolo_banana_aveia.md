@@ -1,7 +1,7 @@
 # BOLO DE BANANA COM AVEIA
 
 [Receita original 1](https://www.amandocozinhar.com/2019/03/bolo-de-banana-com-aveia.html#ixzz6hqaALqZu)
-[Receita original 2](https://www.panelinha.com.br/receita/Bolo-de-banana-com-aveia))
+[Receita original 2](https://www.panelinha.com.br/receita/Bolo-de-banana-com-aveia)
 
 ## INGREDIENTES
 
