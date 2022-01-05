@@ -1,4 +1,5 @@
 # ARROZ COM AÇAFRÃO
+[Receita original](https://www.tudoreceitas.com/receita-de-arroz-com-acafrao-1546.html)
 
 ## INGREDIENTES
 
@@ -29,4 +30,3 @@ fique ligeiramente transparente.
 arroz com açafrão com algumas amêndoas e sirva como acompanhamento de carne
 assada. Bom apetite!
 
-https://www.tudoreceitas.com/receita-de-arroz-com-acafrao-1546.html
