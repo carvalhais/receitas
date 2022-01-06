@@ -1,8 +1,8 @@
 # Algoritmos Culinários
 
-Este repositório contém um livro virtual de receitas reais. Todas as receitas
-deste livro já foram testadas e aprovadas em aventuras culinárias, portanto é
-sabido que funcionam bem.
+Este repositório contém um livro virtual de receitas reais. Quase todas as
+receitas deste livro já foram testadas e aprovadas em aventuras culinárias,
+portanto, mas algumas são inéditas.
 
 Além de servir como um livro de receita virtual, este repositório é um
 laboratório de aprendizado, utilizado primariamente para a prática de
